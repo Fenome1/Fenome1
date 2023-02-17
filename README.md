@@ -8,7 +8,7 @@
 
 Here are some of the projects I'm currently working on:
 
-- [SheduleBot](https://github.com/Fenome1/Shedule)
+- [SheduleBot](https://github.com/Fenome1/SheduleBot)
 
 Feel free to check them out and let me know what you think!
 
