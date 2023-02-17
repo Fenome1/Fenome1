@@ -14,6 +14,6 @@ Feel free to check them out and let me know what you think!
 
 ## Contact
 
-You can reach me [URL](https://www.linkedin.com/in/fenome1/).
+You can reach me [URL](https://vk.com/fenom_1).
 
 Thanks for stopping by! 👋
