@@ -1,6 +1,6 @@
 ### .NET Developer 🚀
 
-##🛠 Technologies and Tools
+## 🛠 Technologies and Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MediatR](https://img.shields.io/badge/-MediatR-5C2D91?style=for-the-badge&logo=patterns&logoColor=white)
